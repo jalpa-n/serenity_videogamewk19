@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.videogameapp.videoGameTest.VideoGameTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.677 sec - in com.videogameapp.videoGameTest.VideoGameTest

@@ -1,0 +1,6 @@
+com\videogameapp\constants\EndPoints.class
+com\videogameapp\utils\PropertyReader.class
+com\videogameapp\videoGameInfo\VideoGameSteps.class
+com\videogameapp\model\VideoGamePojo.class
+com\videogameapp\constants\Path.class
+com\videogameapp\utils\TestUtils.class

@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Video game test","This is create a new video game with json","SUCCESS","2021-07-21T17:51:25.233+01:00[Europe/London]","0.0","3.25"
+"Video game test","Verify if the video game was added to the application","SUCCESS","2021-07-21T17:51:28.498+01:00[Europe/London]","0.0","0.46"
+"Video game test","This will update the video game information and verify information","SUCCESS","2021-07-21T17:51:28.957+01:00[Europe/London]","0.0","0.27"
+"Video game test","This will delete the video game","SUCCESS","2021-07-21T17:51:29.222+01:00[Europe/London]","0.0","0.11"
+"Video game test","This will get all Video game","SUCCESS","2021-07-21T17:51:29.331+01:00[Europe/London]","0.0","0.03"
+"Video game test","This will get single video game","SUCCESS","2021-07-21T17:51:29.362+01:00[Europe/London]","0.0","0.02"
+"Video game test","This will create new video game with xml format","SUCCESS","2021-07-21T17:51:29.378+01:00[Europe/London]","0.0","0.05"
